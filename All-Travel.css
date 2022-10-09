@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Open+Sans:wght@800&display=swap");
+@import "nav.css";
+
+html {
+  background-color: rgb(1, 8, 0);
+}
+
+.background {
+  width: 70%;
+  height: 70%;
+  margin-top: 5%;
+  margin-left: 15%;
+  border-radius: 100px;
+  opacity: 0.8;
+}
+
+.Title {
+  position: absolute;
+  width: 40%;
+  height: 10%;
+  color: white;
+  font-size: 300%;
+  margin-top: -80%;
+  margin-left: 30%;
+  opacity: 1;
+}
+.Title2 {
+  position: absolute;
+  width: 40%;
+  height: 10%;
+  color: white;
+  font-size: 300%;
+  margin-top: -72%;
+  margin-left: 50%;
+  opacity: 1;
+}
